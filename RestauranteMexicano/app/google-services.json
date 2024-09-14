@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "404069083025",
+    "firebase_url": "https://restaurante-33a2b-default-rtdb.firebaseio.com",
+    "project_id": "restaurante-33a2b",
+    "storage_bucket": "restaurante-33a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404069083025:android:ff62ee26c7db0c5c735c30",
+        "android_client_info": {
+          "package_name": "com.example.restaurantemexicano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OE6S8KOev1pNLHHslzSwr-jw7Ya3Goo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
