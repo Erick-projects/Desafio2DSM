@@ -9,7 +9,6 @@
 **Icono y nombre de la aplicación**
 
 - Restaurante Mexicano
+  
 ![image](https://github.com/user-attachments/assets/1f402c6f-edcf-4b13-b8cd-a4db2079c4fb)
 
-**Paleta de colores**
-![image](https://github.com/user-attachments/assets/b1401e0d-1ea6-48fb-9869-3ad46974754e)
