@@ -12,3 +12,5 @@
   
 ![image](https://github.com/user-attachments/assets/1f402c6f-edcf-4b13-b8cd-a4db2079c4fb)
 
+**PDF**
+[DESAFIO-02-DSM.pdf](https://github.com/user-attachments/files/17035403/DESAFIO-02-DSM.pdf)
