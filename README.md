@@ -15,5 +15,5 @@
 **PDF**
 [DESAFIO-02-DSM.pdf](https://github.com/user-attachments/files/17035403/DESAFIO-02-DSM.pdf)
 
-**VIDEO EXPLICATIVO**
+**VIDEO**
 [EXPLICACION DE LA APP](https://drive.google.com/drive/folders/1H8Dzakj_Wp4ImgwbhJSKMBdUy2DS7h9Q?usp=sharing)
